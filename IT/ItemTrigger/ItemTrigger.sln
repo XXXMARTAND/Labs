@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemTrigger", "ItemTrigger\ItemTrigger.csproj", "{EED364E3-042E-4423-9AA9-FC715ACB7F07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EED364E3-042E-4423-9AA9-FC715ACB7F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED364E3-042E-4423-9AA9-FC715ACB7F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED364E3-042E-4423-9AA9-FC715ACB7F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED364E3-042E-4423-9AA9-FC715ACB7F07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4CA0ABA-64E6-4834-89A0-C536C6DDA0E0}
+	EndGlobalSection
+EndGlobal

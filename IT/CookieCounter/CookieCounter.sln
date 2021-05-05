@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieCounter", "CookieCounter.csproj", "{A5B6FD5C-8AA1-4F43-9A39-CC2D57484664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B6FD5C-8AA1-4F43-9A39-CC2D57484664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B6FD5C-8AA1-4F43-9A39-CC2D57484664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B6FD5C-8AA1-4F43-9A39-CC2D57484664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B6FD5C-8AA1-4F43-9A39-CC2D57484664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C33DC75C-E905-43E6-BE7B-BFDA47E8F792}
+	EndGlobalSection
+EndGlobal
